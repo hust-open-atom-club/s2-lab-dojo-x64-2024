@@ -1,0 +1,10 @@
+name: Reverse Engineering
+    
+challenges:
+    - id: easy_re
+      name: easy_re
+
+resources:
+    - name: "软件安全实验一"
+      type: lecture
+      slides: lab-1
