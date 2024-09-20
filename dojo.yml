@@ -11,7 +11,7 @@ comparator: 9997
 
 modules:
   - id: reverse-engineering
-    icon: Bulbasaur
+    icon: Wartortle
 
   - id: mitigation-bypass
-    icon: Squirtle
+    icon: Charmeleon
