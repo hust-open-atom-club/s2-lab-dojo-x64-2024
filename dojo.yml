@@ -5,13 +5,13 @@ name:  Fall 2024 - 软件安全实验
 type: course
 
 award:
-  emoji: Blastoise
+  emoji: 0007_Squirtle
 
 comparator: 9997
 
 modules:
   - id: reverse-engineering
-    icon: Wartortle
+    icon: 0008_Wartortle
 
   - id: mitigation-bypass
-    icon: Charmeleon
+    icon: 0009_Blastoise
