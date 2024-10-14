@@ -2,6 +2,7 @@ name: 防御绕过
 challenges:
     - id: level-1-0
       name: Level 1.0
+      level: 9
 
 resources:
     - name: "软件安全实验二"

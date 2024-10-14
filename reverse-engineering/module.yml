@@ -3,6 +3,7 @@ name: ELF 逆向分析
 challenges:
     - id: level-1-0
       name: Level 1.0
+      level: 6
 
 resources:
     - name: "软件安全实验一"
